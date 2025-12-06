@@ -20,12 +20,9 @@ El objetivo es mantener un espacio organizado para estudiar, repasar y practicar
 
 ## 📂 Organización por materias 
 
--**/Analisis-Matematico-I**
--**/Algebra-Lineal**
--**/Algoritmos-y-Estructuras**
--**/Analisis Matematico I**
-
-
+**/Algebra-Lineal**  
+**/Algoritmos-y-Estructuras**  
+**/Analisis Matematico I**
 
 ---
 
