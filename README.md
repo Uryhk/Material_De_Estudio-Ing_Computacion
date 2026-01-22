@@ -23,7 +23,6 @@ El objetivo es mantener un espacio organizado para estudiar, repasar y practicar
 **/Algebra-Lineal**  
 **/Algoritmos-y-Estructuras**  
 **/Analisis Matematico I**
-
 **/Fisica I**
 
 
